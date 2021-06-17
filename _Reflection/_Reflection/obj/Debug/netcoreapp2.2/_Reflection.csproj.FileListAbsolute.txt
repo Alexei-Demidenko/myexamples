@@ -1,0 +1,14 @@
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\_Reflection.deps.json
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\_Reflection.runtimeconfig.json
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\_Reflection.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\_Reflection.dll
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\_Reflection.pdb
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.csprojAssemblyReference.cache
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.AssemblyInfo.cs
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.csproj.CopyComplete
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.dll
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\obj\Debug\netcoreapp2.2\_Reflection.pdb
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\IQueryable.dll
+C:\Users\alexei\Desktop\примеры\_Reflection\_Reflection\bin\Debug\netcoreapp2.2\IQueryable.pdb

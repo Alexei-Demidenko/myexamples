@@ -1,0 +1,11 @@
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.deps.json
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.runtimeconfig.json
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.dll
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.pdb
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.csprojAssemblyReference.cache
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.AssemblyInfo.cs
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.dll
+C:\Users\alexei\Desktop\примеры\Dictionary\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.pdb

@@ -1,0 +1,11 @@
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\bin\Debug\netcoreapp2.2\IComparable.deps.json
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\bin\Debug\netcoreapp2.2\IComparable.runtimeconfig.json
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\bin\Debug\netcoreapp2.2\IComparable.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\bin\Debug\netcoreapp2.2\IComparable.dll
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\bin\Debug\netcoreapp2.2\IComparable.pdb
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.csprojAssemblyReference.cache
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.AssemblyInfo.cs
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.dll
+C:\Users\alexei\Desktop\примеры\IComparable\IComparable\obj\Debug\netcoreapp2.2\IComparable.pdb

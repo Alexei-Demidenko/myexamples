@@ -1,0 +1,11 @@
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\bin\Debug\netcoreapp2.2\_INotifyPropertyChanged.deps.json
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\bin\Debug\netcoreapp2.2\_INotifyPropertyChanged.runtimeconfig.json
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\bin\Debug\netcoreapp2.2\_INotifyPropertyChanged.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\bin\Debug\netcoreapp2.2\_INotifyPropertyChanged.dll
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\bin\Debug\netcoreapp2.2\_INotifyPropertyChanged.pdb
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.AssemblyInfo.cs
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.dll
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.pdb
+C:\Users\alexei\Desktop\примеры\_INotifyPropertyChanged\_INotifyPropertyChanged\obj\Debug\netcoreapp2.2\_INotifyPropertyChanged.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Surname>Демиденко</Surname>
+  <Name>Алексей</Name>
+  <Middle_name>Владимирович</Middle_name>
+  <Date_Birth>1991-12-31T00:00:00</Date_Birth>
+  <Place_Birth>Бутор</Place_Birth>
+  <PassportID>123456</PassportID>
+</Person>

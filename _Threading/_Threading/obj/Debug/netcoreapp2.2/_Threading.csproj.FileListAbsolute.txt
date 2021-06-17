@@ -1,0 +1,11 @@
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.csprojAssemblyReference.cache
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.AssemblyInfo.cs
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\bin\Debug\netcoreapp2.2\_Threading.deps.json
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\bin\Debug\netcoreapp2.2\_Threading.runtimeconfig.json
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\bin\Debug\netcoreapp2.2\_Threading.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\bin\Debug\netcoreapp2.2\_Threading.dll
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\bin\Debug\netcoreapp2.2\_Threading.pdb
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.dll
+C:\Users\alexei\Desktop\примеры\_Threading\_Threading\obj\Debug\netcoreapp2.2\_Threading.pdb

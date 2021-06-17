@@ -1,0 +1,11 @@
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.csprojAssemblyReference.cache
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.AssemblyInfoInputs.cache
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.AssemblyInfo.cs
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\netcoreapp2.2\IEnumerable_IEnumerator.deps.json
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\netcoreapp2.2\IEnumerable_IEnumerator.runtimeconfig.json
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\netcoreapp2.2\IEnumerable_IEnumerator.runtimeconfig.dev.json
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\netcoreapp2.2\IEnumerable_IEnumerator.dll
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\netcoreapp2.2\IEnumerable_IEnumerator.pdb
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.dll
+C:\Users\alexei\Desktop\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\netcoreapp2.2\IEnumerable_IEnumerator.pdb
