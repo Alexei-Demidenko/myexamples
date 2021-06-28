@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.exe
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.deps.json
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.dll
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\ref\Head_3_OOP.dll
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\bin\Debug\net5.0\Head_3_OOP.pdb
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.dll
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\ref\Head_3_OOP.dll
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.pdb
+C:\Users\alexei\source\repos\Head_3_OOP\Head_3_OOP\obj\Debug\net5.0\Head_3_OOP.genruntimeconfig.cache
