@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.exe
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.deps.json
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.dll
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\ref\Head_7_IEnumerable.dll
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\bin\Debug\net5.0\Head_7_IEnumerable.pdb
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.dll
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\ref\Head_7_IEnumerable.dll
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.pdb
+C:\Users\alexei\source\repos\Head_7_IEnumerable\Head_7_IEnumerable\obj\Debug\net5.0\Head_7_IEnumerable.genruntimeconfig.cache
