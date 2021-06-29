@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.exe
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.deps.json
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.dll
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\ref\Head_6_Boxing_and_Unboxing.dll
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\bin\Debug\net5.0\Head_6_Boxing_and_Unboxing.pdb
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.dll
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\ref\Head_6_Boxing_and_Unboxing.dll
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.pdb
+C:\Users\alexei\source\repos\Head_6_Boxing_and_Unboxing\Head_6_Boxing_and_Unboxing\obj\Debug\net5.0\Head_6_Boxing_and_Unboxing.genruntimeconfig.cache
