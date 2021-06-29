@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.exe
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.deps.json
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.dll
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\ref\Head_4_Value_and_Reference_type.dll
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\bin\Debug\net5.0\Head_4_Value_and_Reference_type.pdb
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.dll
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\ref\Head_4_Value_and_Reference_type.dll
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.pdb
+C:\Users\alexei\source\repos\Head_4_Value_and_Reference_type\Head_4_Value_and_Reference_type\obj\Debug\net5.0\Head_4_Value_and_Reference_type.genruntimeconfig.cache
