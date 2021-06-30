@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.exe
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.deps.json
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.dll
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\ref\Head_11_Dictionary.dll
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\bin\Debug\net5.0\Head_11_Dictionary.pdb
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.dll
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\ref\Head_11_Dictionary.dll
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.pdb
+C:\Users\alexei\source\repos\Head_11_Dictionary\Head_11_Dictionary\obj\Debug\net5.0\Head_11_Dictionary.genruntimeconfig.cache
