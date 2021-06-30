@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.exe
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.deps.json
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.dll
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\ref\Head_9_IComparable.dll
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\bin\Debug\net5.0\Head_9_IComparable.pdb
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.dll
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\ref\Head_9_IComparable.dll
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.pdb
+C:\Users\alexei\source\repos\Head_9_IComparable\Head_9_IComparable\obj\Debug\net5.0\Head_9_IComparable.genruntimeconfig.cache
