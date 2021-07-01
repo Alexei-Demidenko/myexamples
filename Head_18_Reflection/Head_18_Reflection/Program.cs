@@ -72,6 +72,7 @@ namespace Head_18_Reflection
                 }
 
                 object obj = Activator.CreateInstance(myType);
+
                 Console.WriteLine($"\nВызов метода Next из класса RandomDateTime: {myType.GetMethod("Next").Invoke(obj, Array.Empty<object>())}");
             }
             catch (Exception ex)
