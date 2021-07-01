@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYT36FqhuNl4hsuW6wEZgMKKxepXBck0kr5HN2WvFCqtR4AuwPOpfLvnrBA2lWjq6Yy/bcMHKuk2HId+9or8gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexei\\source\\repos\\Head_19.1_Serialization\\Head_19.1_Serialization\\Head_19.1_Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
