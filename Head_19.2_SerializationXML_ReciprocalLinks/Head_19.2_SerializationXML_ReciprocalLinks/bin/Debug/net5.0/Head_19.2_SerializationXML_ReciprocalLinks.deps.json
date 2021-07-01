@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Head_19.2_SerializationXML_ReciprocalLinks/1.0.0": {
+        "runtime": {
+          "Head_19.2_SerializationXML_ReciprocalLinks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Head_19.2_SerializationXML_ReciprocalLinks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

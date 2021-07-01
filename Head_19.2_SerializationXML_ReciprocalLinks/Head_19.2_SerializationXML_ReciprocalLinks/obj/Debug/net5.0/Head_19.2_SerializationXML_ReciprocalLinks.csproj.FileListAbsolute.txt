@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.exe
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.deps.json
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.dll
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\ref\Head_19.2_SerializationXML_ReciprocalLinks.dll
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\bin\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.pdb
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.dll
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\ref\Head_19.2_SerializationXML_ReciprocalLinks.dll
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.pdb
+C:\Users\alexei\source\repos\Head_19.2_SerializationXML_ReciprocalLinks\Head_19.2_SerializationXML_ReciprocalLinks\obj\Debug\net5.0\Head_19.2_SerializationXML_ReciprocalLinks.genruntimeconfig.cache
