@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.exe
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.deps.json
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.dll
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\ref\Head_21_Threading.dll
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\bin\Debug\net5.0\Head_21_Threading.pdb
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.dll
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\ref\Head_21_Threading.dll
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.pdb
+C:\Users\alexei\source\repos\Head_21_Threading\Head_21_Threading\obj\Debug\net5.0\Head_21_Threading.genruntimeconfig.cache
