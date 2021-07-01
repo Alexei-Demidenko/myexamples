@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.exe
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.deps.json
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.dll
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\ref\Head_14_INotifyPropertyChanged.dll
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\bin\Debug\net5.0\Head_14_INotifyPropertyChanged.pdb
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.dll
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\ref\Head_14_INotifyPropertyChanged.dll
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.pdb
+C:\Users\alexei\source\repos\Head_14_INotifyPropertyChanged\Head_14_INotifyPropertyChanged\obj\Debug\net5.0\Head_14_INotifyPropertyChanged.genruntimeconfig.cache
