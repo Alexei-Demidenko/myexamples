@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.exe
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.deps.json
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.dll
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\ref\Head_21_Thread_IJobExecutor.dll
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\bin\Debug\net5.0\Head_21_Thread_IJobExecutor.pdb
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.dll
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\ref\Head_21_Thread_IJobExecutor.dll
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.pdb
+C:\Users\alexei\source\repos\Head_21_Thread_IJobExecutor\Head_21_Thread_IJobExecutor\obj\Debug\net5.0\Head_21_Thread_IJobExecutor.genruntimeconfig.cache
