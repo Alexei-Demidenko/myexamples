@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Head_18_Reflection/1.0.0": {
+        "dependencies": {
+          "Head_8_IQueryable": "1.0.0.0"
+        },
+        "runtime": {
+          "Head_18_Reflection.dll": {}
+        }
+      },
+      "Head_8_IQueryable/1.0.0.0": {
+        "runtime": {
+          "Head_8_IQueryable.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Head_18_Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Head_8_IQueryable/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
