@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.exe
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.deps.json
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.dll
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\ref\Head_21_AutoResetEvent.dll
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\bin\Debug\net5.0\Head_21_AutoResetEvent.pdb
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.dll
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\ref\Head_21_AutoResetEvent.dll
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.pdb
+C:\Users\alexei\source\repos\Head_21_AutoResetEvent\Head_21_AutoResetEvent\obj\Debug\net5.0\Head_21_AutoResetEvent.genruntimeconfig.cache
