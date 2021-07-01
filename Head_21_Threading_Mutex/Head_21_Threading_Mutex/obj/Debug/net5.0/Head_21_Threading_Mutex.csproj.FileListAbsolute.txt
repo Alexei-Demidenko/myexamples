@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.exe
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.deps.json
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.dll
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\ref\Head_21_Threading_Mutex.dll
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\bin\Debug\net5.0\Head_21_Threading_Mutex.pdb
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.dll
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\ref\Head_21_Threading_Mutex.dll
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.pdb
+C:\Users\alexei\source\repos\Head_21_Threading_Mutex\Head_21_Threading_Mutex\obj\Debug\net5.0\Head_21_Threading_Mutex.genruntimeconfig.cache
