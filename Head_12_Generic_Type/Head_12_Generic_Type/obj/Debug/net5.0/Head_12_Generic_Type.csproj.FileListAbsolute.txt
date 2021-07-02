@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.exe
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.deps.json
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.dll
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\ref\Head_12_Generic_Type.dll
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\bin\Debug\net5.0\Head_12_Generic_Type.pdb
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.dll
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\ref\Head_12_Generic_Type.dll
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.pdb
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.genruntimeconfig.cache
+C:\Users\alexei\source\repos\Head_12_Generic_Type\Head_12_Generic_Type\obj\Debug\net5.0\Head_12_Generic_Type.csproj.AssemblyReference.cache
