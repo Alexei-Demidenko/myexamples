@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.exe
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.deps.json
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.dll
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\ref\Head_16_IDisposable_Using.dll
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\bin\Debug\net5.0\Head_16_IDisposable_Using.pdb
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.dll
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\ref\Head_16_IDisposable_Using.dll
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.pdb
+C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.genruntimeconfig.cache
