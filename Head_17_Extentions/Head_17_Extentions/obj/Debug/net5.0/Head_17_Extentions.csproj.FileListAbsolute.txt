@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.exe
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.deps.json
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.dll
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\ref\Head_17_Extentions.dll
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\bin\Debug\net5.0\Head_17_Extentions.pdb
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.dll
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\ref\Head_17_Extentions.dll
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.pdb
+C:\Users\alexei\source\repos\Head_17_Extentions\Head_17_Extentions\obj\Debug\net5.0\Head_17_Extentions.genruntimeconfig.cache
