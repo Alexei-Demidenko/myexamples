@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.exe
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.deps.json
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.dll
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\ref\Head_13_Delegate.dll
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\bin\Debug\net5.0\Head_13_Delegate.pdb
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.dll
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\ref\Head_13_Delegate.dll
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.pdb
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.genruntimeconfig.cache
+C:\Users\alexei\source\repos\Head_13_Delegate\Head_13_Delegate\obj\Debug\net5.0\Head_13_Delegate.csproj.AssemblyReference.cache
