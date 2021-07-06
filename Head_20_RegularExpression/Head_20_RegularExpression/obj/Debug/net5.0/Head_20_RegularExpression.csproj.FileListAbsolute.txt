@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.exe
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.deps.json
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.dll
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\ref\Head_20_RegularExpression.dll
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\bin\Debug\net5.0\Head_20_RegularExpression.pdb
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.dll
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\ref\Head_20_RegularExpression.dll
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.pdb
+C:\Users\alexei\source\repos\Head_20_RegularExpression\Head_20_RegularExpression\obj\Debug\net5.0\Head_20_RegularExpression.genruntimeconfig.cache
