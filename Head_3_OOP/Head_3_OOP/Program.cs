@@ -7,17 +7,17 @@ namespace Head_3_OOP
         {
             MessageCar car = new()
             {
-                Type_of_Technics = "Легковой автомобиль",
-                Type_of_fuel = "Дизель",
-                Weight_car = 1500
+                TypeTechnics = "Легковой автомобиль",
+                TypeFuel = "Бензин",
+                WeightCar = 1500
             };
 
             SpecialTechnics special = new()
             {
-                Type_of_Technics = "Спецтехника",
-                Type_of_fuel = "Дизель",
+                TypeTechnics = "Спецтехника",
+                TypeFuel = "Дизель",
                 NameTechnics = "Экскаватор",
-                Weight_car = 3500
+                WeightCar = 3500
             };
 
             ITechnics[] tehnics = new ITechnics[] { car, special };
