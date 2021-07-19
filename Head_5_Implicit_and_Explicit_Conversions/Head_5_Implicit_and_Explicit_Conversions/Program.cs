@@ -6,58 +6,59 @@ namespace Head_5_Implicit_and_Explicit_Conversions
     {
         static void Main(string[] args)
         {
-            short shortValue = 3;
-            int intValue = shortValue;       // Неявные преобразования           
-            char charValue = (char)shortValue;  // Явные преобразования  
+            short ShortValue = 3;
+            int IntValue = ShortValue;       // Неявные преобразования           
+            char CharValue = (char)ShortValue;  // Явные преобразования  
 
-            Console.WriteLine($"shortValue={shortValue}\tintValue={intValue}\tcharValue={charValue}");
+            Console.WriteLine($"ShortValue={ShortValue}\tIntValue={IntValue}\tCharValue={CharValue}");
 
             //checked=>исключение о переполнении
             try
             {
-                byte byteValue = checked((byte)(shortValue + intValue));
-                Console.WriteLine($"\nbyteValue={byteValue}");
+                byte ByteValue = checked((byte)(ShortValue + IntValue));
+                Console.WriteLine($"\nByteValue={ByteValue}");
             }
             catch (OverflowException ex)
             {
                 Console.WriteLine(ex.Message);
             }
 
-            //ключевое слово is
-            object objectValue = new object();
-            if (objectValue is Example) // проверяем объект на принадлежность к типу
+            Person person = new();
+            Friend friend = new();
+            Colleagues colleagues = new();
+
+            //ключевое слово is 
+            if (friend is Person) // проверяем объект на принадлежность к типу               
             {
-                Example example1 = (Example)objectValue; // приводим объект o к типу Example
-                Console.WriteLine("\nПреобразование objectValue к типу Example прошла успешно");
+                person = friend; // приводим friend к типу Person
+                Console.WriteLine("\nПреобразование friend к типу Person прошла успешно.");
             }
             else
             {
-                Console.WriteLine("\nНе удалось преобразование objectValue к типу Example");
+                Console.WriteLine("\nНе удалось преобразование  friend к типу Person.");
             }
 
             //ключевое слово as
-            Example example2 = new();
-            object objectValue2 = example2 as object;      // попытка приведения example2 к типу object
-            if (objectValue2 == null)
+            colleagues = person as Colleagues;// попытка приведения person к типу Colleagues
+            if (colleagues == null)
             {
-                Console.WriteLine("\nНе удалось преобразование Example example2 к типу object");
+                Console.WriteLine("\nНе удалось преобразование person к типу Colleagues.");
             }
             else
             {
-                Console.WriteLine("\nПреобразование Example example2 к типу object прошла успешно");
+                Console.WriteLine("\nПреобразование person к типу Colleagues прошла успешно.\n");
             }
 
             //отлавливании исключения InvalidCastException
             try
             {
-                object objectValue3 = (object)example2;
-                Console.WriteLine("\nПреобразование Example example2 к типу object прошла успешно");
+                colleagues = (Colleagues)person;
+                Console.WriteLine("\nПреобразование person к типу Colleagues прошла успешно");
             }
             catch (InvalidCastException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"\nНе удалось преобразование person к типу Colleagues -> {ex.Message}");
             }
         }
-        class Example { } // Пустой класс Example
     }
 }
