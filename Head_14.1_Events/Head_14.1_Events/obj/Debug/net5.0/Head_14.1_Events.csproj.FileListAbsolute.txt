@@ -1,0 +1,15 @@
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.exe
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.deps.json
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.runtimeconfig.json
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.dll
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\ref\Head_14.1_Events.dll
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\bin\Debug\net5.0\Head_14.1_Events.pdb
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.dll
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\ref\Head_14.1_Events.dll
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.pdb
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.genruntimeconfig.cache

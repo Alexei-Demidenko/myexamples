@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Head_14.1_Events/1.0.0": {
+        "runtime": {
+          "Head_14.1_Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Head_14.1_Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
