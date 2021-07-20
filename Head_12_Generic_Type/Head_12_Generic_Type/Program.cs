@@ -6,30 +6,25 @@ namespace Head_12_Generic_Type
     {
         static void Main(string[] args)
         {
-            //Создаем список помещений
-            var RoomName = new ClassExample<string>();
-
-            //заполняем значениями
-            RoomName.AddValue("Коридор");
-            RoomName.AddValue("Кабинет");
-            RoomName.AddValue("Кухня");
-
-            ////Создаем список площадь помещений
-            var RoomArea = new ClassExample<int>();
-            RoomArea.AddValue(20);
-            RoomArea.AddValue(35);
-            RoomArea.AddValue(15);
-
-            Console.WriteLine("Название помещений (список RoomName, тип string):");
-            foreach (var item in RoomName.GetListValue)
+            Room room = new() { RoomName = "Номер 101", RoomArea = 95, Free = true };
+            Room room2 = new() { RoomName = "Номер 222", RoomArea = 35, Free = false };
+            Room room3 = new() { RoomName = "Номер 333", RoomArea = 40, Free = true };
+            Room room4 = new() { RoomName = "Номер 404", RoomArea = 75, Free = false };
+            ClassExample<Room> classExample = new();
+            classExample.Add(room);
+            classExample.Add(room2);
+            classExample.Add(room3);
+            classExample.Add(room4);
+            Console.WriteLine($"\n\tСодержимое RommCollection:");
+            foreach (Room ValueRoom in classExample.RommCollection)
             {
-                Console.WriteLine(item);
+                ClassExample<Room>.Print(ValueRoom);
             }
-
-            Console.WriteLine("\nПлощать помещений (список RoomArea, тип int):");
-            foreach (var item in RoomArea.GetListValue)
+            Console.WriteLine($"\n\tСодержимое RommCollection после сортировке по полю RoomArea:");
+            classExample.RommCollection.Sort(classExample);
+            foreach (Room ValueRoom in classExample.RommCollection)
             {
-                Console.WriteLine(item);
+                ClassExample<Room>.Print(ValueRoom);
             }
         }
     }
