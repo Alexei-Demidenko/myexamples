@@ -6,11 +6,11 @@ namespace Head_16_IDisposable_Using
     {
         static void Main(string[] args)
         {
-			MyFile myFile = null;
+            MyFile myFile = null;
             try
             {
                 myFile = new MyFile(); // инициализируем
-                Console.WriteLine("Создан объект класса MyFile!");
+                Console.WriteLine("Создан неуправляемый ресурс intPtr и управляемый ресурсы handle:");
             }
             finally
             {
@@ -19,9 +19,8 @@ namespace Head_16_IDisposable_Using
                     myFile.Dispose();
                 }
             }
-
-            Console.WriteLine("\nСоздаем объект класса MyFile в конструкций using");
-            using MyFile file = new();                        
+            Console.WriteLine("\nСоздан неуправляемый ресурс intPtr и управляемый ресурсы handle, в конструкций using:");
+            using MyFile file = new();
         }
     }
 }

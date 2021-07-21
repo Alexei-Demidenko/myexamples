@@ -1,4 +1,3 @@
-C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.csproj.AssemblyReference.cache
 C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.AssemblyInfoInputs.cache
 C:\Users\alexei\source\repos\Head_16_IDisposable_Using\Head_16_IDisposable_Using\obj\Debug\net5.0\Head_16_IDisposable_Using.AssemblyInfo.cs
