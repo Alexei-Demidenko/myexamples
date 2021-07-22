@@ -6,12 +6,14 @@ namespace Head_17_Extentions
     {
         static void Main(string[] args)
         {
-            AreaFigure areaFigure = new();
-            int value = 5;
+            Skydiving skydiving = new();
+            int ValueHeight = 4000;
+            skydiving.Message1(ValueHeight);
+            skydiving.Message2(ValueHeight);
+            skydiving.Message3(ValueHeight);
 
-            Console.WriteLine($"Площадь квадрата = {areaFigure.Square(value)}");
-            Console.WriteLine($"Площадь круга = {areaFigure.Circle(value)}");
-            Console.WriteLine($"Площадь прямоугольного треугольника = {areaFigure.RightTriangle(value, value)}");
+            Random rnd = new();
+            rnd.PrintRandom(rnd.Next(0, 5000));
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexei\\source\\repos\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj": {}
+    "D:\\examples\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexei\\source\\repos\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj": {
+    "D:\\examples\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexei\\source\\repos\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj",
+        "projectUniqueName": "D:\\examples\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj",
         "projectName": "Head_17_Extentions",
-        "projectPath": "C:\\Users\\alexei\\source\\repos\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj",
+        "projectPath": "D:\\examples\\Head_17_Extentions\\Head_17_Extentions\\Head_17_Extentions.csproj",
         "packagesPath": "C:\\Users\\alexei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexei\\source\\repos\\Head_17_Extentions\\Head_17_Extentions\\obj\\",
+        "outputPath": "D:\\examples\\Head_17_Extentions\\Head_17_Extentions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
