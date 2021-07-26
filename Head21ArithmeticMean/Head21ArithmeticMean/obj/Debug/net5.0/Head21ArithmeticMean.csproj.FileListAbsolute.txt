@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.exe
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.deps.json
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.runtimeconfig.json
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.dll
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\ref\Head21ArithmeticMean.dll
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\bin\Debug\net5.0\Head21ArithmeticMean.pdb
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.dll
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\ref\Head21ArithmeticMean.dll
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.pdb
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.genruntimeconfig.cache
+C:\Users\alexei\source\repos\Head21ArithmeticMean\Head21ArithmeticMean\obj\Debug\net5.0\Head21ArithmeticMean.csproj.AssemblyReference.cache
