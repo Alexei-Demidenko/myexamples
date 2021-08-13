@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.exe
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.deps.json
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.runtimeconfig.json
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.dll
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\ref\Head4ICloneable.dll
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\bin\Debug\net5.0\Head4ICloneable.pdb
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.dll
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\ref\Head4ICloneable.dll
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.pdb
+C:\Users\alexei\source\repos\Head4ICloneable\Head4ICloneable\obj\Debug\net5.0\Head4ICloneable.genruntimeconfig.cache
