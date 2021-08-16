@@ -1,18 +1,30 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Head_6_Boxing_and_Unboxing
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             short shortValue = -32768;
+            var timeBoxingUnboxing = new Stopwatch();
+
+            timeBoxingUnboxing.Start();
             object objectValue = shortValue; // boxing
-            Console.WriteLine($"Произошла упаковка shortValue в objectValue.\tobjectValue={objectValue}");
+            timeBoxingUnboxing.Stop();
+            Console.WriteLine($"Упаковка shortValue в objectValue. Потрачено {timeBoxingUnboxing.ElapsedTicks} тактов на выполнение.");
+            timeBoxingUnboxing.Reset();
+
+            timeBoxingUnboxing.Start();
+            shortValue = (short)objectValue; // unboxing
+            timeBoxingUnboxing.Stop();
+            Console.WriteLine($"Разпаковка objectValue в shortValue. Потрачено {timeBoxingUnboxing.ElapsedTicks} тактов на выполнение.");
+            timeBoxingUnboxing.Reset();
 
             try
             {
-                int intValue = (int)objectValue; // попытка распаковки
+                var intValue = (int)objectValue; // попытка распаковки
                 Console.WriteLine($"\nПроизошла распаковка objectValue в intValue.\tintValue={intValue}");
             }
             catch (InvalidCastException e)
@@ -22,7 +34,7 @@ namespace Head_6_Boxing_and_Unboxing
 
             try
             {
-                shortValue = (short)objectValue; ; // попытка распаковки
+                shortValue = (short)objectValue; // попытка распаковки
                 Console.WriteLine($"\nПроизошла распаковка objectValue в shortValue.\tshortValue={shortValue}");
             }
             catch (InvalidCastException e)
@@ -40,12 +52,13 @@ namespace Head_6_Boxing_and_Unboxing
             Console.WriteLine($"test.IntValue = {test.IntValue}");
         }
 
-        interface IExample
+        internal interface IExample
         {
             void PrintValue();
             void SetValue(int i);
         }
-        struct Test : IExample
+
+        internal struct Test : IExample
         {
             public int IntValue { get; set; }
             public void PrintValue()
