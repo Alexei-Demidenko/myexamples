@@ -1,0 +1,16 @@
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.exe
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.deps.json
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.runtimeconfig.json
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.runtimeconfig.dev.json
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.dll
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\ref\Head5Casting.dll
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\bin\Debug\net5.0\Head5Casting.pdb
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.csproj.AssemblyReference.cache
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.AssemblyInfoInputs.cache
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.AssemblyInfo.cs
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.csproj.CoreCompileInputs.cache
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.dll
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\ref\Head5Casting.dll
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.pdb
+C:\Users\alexei\source\repos\Head5Casting\Head5Casting\obj\Debug\net5.0\Head5Casting.genruntimeconfig.cache
