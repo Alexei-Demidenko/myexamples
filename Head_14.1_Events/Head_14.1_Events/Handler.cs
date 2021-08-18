@@ -1,24 +1,28 @@
 ﻿using System;
-using System.Threading;
 
 namespace Head_14._1_Events
 {
     internal class Handler
     {
-        internal static void Message1()
-        {            
-            Console.WriteLine("\nПоздравляем! Ты спрыгнул с парашютом.\n");
-            Thread.Sleep(100);
-        }
-        internal static void Message2()
+        public delegate void SkydiverHandler();
+        public event SkydiverHandler Notify;
+        internal void Height(int height)
         {
-            Console.WriteLine("\nНе забудьте открыть парашют!\n");
-            Thread.Sleep(100);
-        }
-        internal static void Message3()
-        {
-            Console.WriteLine("\nПоздравляем! Ты приземлился!\nНадеемся всё прошло удачно.");
-            Thread.Sleep(100);
+            switch (height)
+            {
+                case 3900:
+                    Notify?.Invoke();
+                    break;
+                case 1000:
+                    Notify?.Invoke();
+                    break;
+                case 100:
+                    Notify?.Invoke();
+                    break;
+                default:
+                    Console.WriteLine($"Ты находишся на высоте :{height} м.");
+                    break;
+            }
         }
     }
 }

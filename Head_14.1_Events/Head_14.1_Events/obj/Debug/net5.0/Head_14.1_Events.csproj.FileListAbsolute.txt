@@ -13,3 +13,4 @@ C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\
 C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\ref\Head_14.1_Events.dll
 C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.pdb
 C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.genruntimeconfig.cache
+C:\Users\alexei\source\repos\Head_14.1_Events\Head_14.1_Events\obj\Debug\net5.0\Head_14.1_Events.csproj.AssemblyReference.cache
