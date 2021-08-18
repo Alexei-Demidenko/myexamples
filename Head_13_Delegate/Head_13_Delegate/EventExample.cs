@@ -2,7 +2,7 @@
 
 namespace Head_13_Delegate
 {
-    class EventExample
+    internal class EventExample
     {
         //Свойство OnChange содержит список всех callback-методов подписчиков 
         public event Action OnChange = delegate { };
