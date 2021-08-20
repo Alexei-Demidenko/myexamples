@@ -1,7 +1,7 @@
 ﻿
 namespace Head_21_Thread_IJobExecutor
 {
-    interface IJobExecutor
+    public interface IJobExecutor
     {
         /// Кол-во задач в очереди на обработку
         int Amount { get; }
@@ -9,7 +9,7 @@ namespace Head_21_Thread_IJobExecutor
         /// <summary>
         /// Запустить обработку очереди и установить максимальное кол-во   параллельных задач
         /// </summary>
-        /// <param_name="maxConcurrent">максимальное кол-во одновременн        выполняемых задач</param>
+        /// <param_name="maxConcurrent">максимальное кол-во одновременн выполняемых задач</param>
         void Start(int maxConcurrent);
 
         /// <summary>
