@@ -9,17 +9,24 @@ namespace Head_6_Boxing_and_Unboxing
         {
             short shortValue = -32768;
             var timeBoxingUnboxing = new Stopwatch();
-
+            object objectValue = 1;
+            var objectValue2= new object[10];
             timeBoxingUnboxing.Start();
-            object objectValue = shortValue; // boxing
+            for (var i = 0; i < 10; i++)
+            {
+                 objectValue2[i] = shortValue; // boxing
+            }
             timeBoxingUnboxing.Stop();
-            Console.WriteLine($"Упаковка shortValue в objectValue. Потрачено {timeBoxingUnboxing.ElapsedTicks} тактов на выполнение.");
+            Console.WriteLine($"Упаковка shortValue в objectValue. Потрачено {timeBoxingUnboxing.ElapsedTicks/10} тактов на выполнение.");
             timeBoxingUnboxing.Reset();
 
             timeBoxingUnboxing.Start();
-            shortValue = (short)objectValue; // unboxing
+            for (var i = 0; i < 10; i++)
+            {
+                shortValue = (short) objectValue2[i]; // unboxing
+            }
             timeBoxingUnboxing.Stop();
-            Console.WriteLine($"Разпаковка objectValue в shortValue. Потрачено {timeBoxingUnboxing.ElapsedTicks} тактов на выполнение.");
+            Console.WriteLine($"Разпаковка objectValue в shortValue. Потрачено {timeBoxingUnboxing.ElapsedTicks/10} тактов на выполнение.");
             timeBoxingUnboxing.Reset();
 
             try
