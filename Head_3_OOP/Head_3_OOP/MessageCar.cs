@@ -10,7 +10,7 @@ namespace Head_3_OOP
         public override void Print()
         {
             Console.WriteLine($"Тип автотехники = {TypeTechnics}\nТип топливо = {TypeFuel}\n" +
-                $"Вес автомобиля {WeightCar} кг.\n");
+                $"Вес автомобиля {Weight} кг.\n");
         }
     }
 }

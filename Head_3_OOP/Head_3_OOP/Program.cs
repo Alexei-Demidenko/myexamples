@@ -1,15 +1,15 @@
 ﻿
 namespace Head_3_OOP
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
             MessageCar car = new()
             {
                 TypeTechnics = "Легковой автомобиль",
                 TypeFuel = "Бензин",
-                WeightCar = 1500
+                Weight = 1500
             };
 
             SpecialTechnics special = new()
@@ -17,13 +17,13 @@ namespace Head_3_OOP
                 TypeTechnics = "Спецтехника",
                 TypeFuel = "Дизель",
                 NameTechnics = "Экскаватор",
-                WeightCar = 3500
+                Weight = 3500
             };
 
-            ITechnics[] tehnics = new ITechnics[] { car, special };
-            foreach (var tehnic in tehnics)
+            var technician = new ITechnics[] { car, special };
+            foreach (var technical in technician)
             {
-                tehnic.Print();
+                technical.Print();
             }
         }
     }

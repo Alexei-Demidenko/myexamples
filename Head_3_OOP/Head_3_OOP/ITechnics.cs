@@ -4,7 +4,7 @@
     {
         string TypeTechnics { get; } // тип автотехники
         string TypeFuel { get; } // тип топлива
-        int WeightCar { get; } // Масса автотехники
-        abstract void Print(); // отправляем сообщение 
+        int Weight { get; } // Масса автотехники
+        void Print(); // отправляем сообщение 
     }
 }
