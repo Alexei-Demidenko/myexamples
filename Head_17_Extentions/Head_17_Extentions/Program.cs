@@ -4,16 +4,19 @@ namespace Head_17_Extentions
 {
     internal class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
             Skydiving skydiving = new();
-            int ValueHeight = 4000;
-            skydiving.Message1(ValueHeight);
-            skydiving.Message2(ValueHeight);
-            skydiving.Message3(ValueHeight);
+            const int valueHeight = 4000;
+            skydiving.Message1(valueHeight);
+            skydiving.Message2(valueHeight);
+            skydiving.Message3(valueHeight);
 
             Random rnd = new();
-            rnd.PrintRandom(rnd.Next(0, 5000));
+            rnd.PrintRandom();
+
+            var intValue = 15;
+            intValue.PositiveNegativeNumbers();
         }
     }
 }
